@@ -1,0 +1,38 @@
+[
+  {
+    "Nume": "Serediuc",
+    "Prenume": "Alex",
+    "Facultate": "FIESC",
+    "Cnp": "1990616335941",
+    "Absente": {
+      "Absente": []
+    }
+  },
+  {
+    "Nume": "Hreniuc",
+    "Prenume": "Denisa",
+    "Facultate": "FSEAP",
+    "Cnp": "2990710335086",
+    "Absente": {
+      "Absente": []
+    }
+  },
+  {
+    "Nume": "Hreniuc",
+    "Prenume": "Madalina",
+    "Facultate": "SCOALA",
+    "Cnp": "2990617339898",
+    "Absente": {
+      "Absente": [
+        {
+          "Data": "2021-02-15T19:31:45",
+          "Activitate": "AVAP"
+        },
+        {
+          "Data": "2021-02-08T19:31:45",
+          "Activitate": "Mate"
+        }
+      ]
+    }
+  }
+]
